@@ -1,0 +1,22 @@
+{
+  "name": "bowertest",
+  "description": "testdescription",
+  "main": "testmain",
+  "keywords": [
+    "hello",
+    "jfrog",
+    "bower"
+  ],
+  "authors": [
+    "arun"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
